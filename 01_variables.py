@@ -42,3 +42,8 @@ addres = True
 addres = 5
 addres = 1.2
 print(type(addres))
+
+#Keywords
+help('keywords')
+
+help(str)
