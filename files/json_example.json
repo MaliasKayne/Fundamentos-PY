@@ -1,0 +1,10 @@
+{
+    "name": "Jossie",
+    "country": "Colombia",
+    "city": "Puerto Asis",
+    "skills": [
+        "Javascript",
+        "VueJS",
+        "Python"
+    ]
+}
