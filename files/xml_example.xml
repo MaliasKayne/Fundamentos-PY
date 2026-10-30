@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<person gender="Male">
+    <name>Jossie</name>
+    <country>Colombia</country>
+    <city>Puerto Asis</city>
+    <skills>
+        <skill>JavaScript</skill>
+        <skill>VueJS</skill>
+        <skill>Python</skill>
+    </skills>
+</person>
