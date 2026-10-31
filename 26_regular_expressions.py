@@ -102,3 +102,9 @@ print(matches)
 regex_patern = r'[^A-Za-z ]+' #Dentro de corchetes [], ^ significa negacion, no A-Za-z, no espacio
 matches = re.findall(regex_patern, txt)
 print(matches)
+
+email = "diazjossie2@gmail.com"
+pattern = r'^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9]+\.[a-zA-z-.]+$'
+print(re.match(pattern,email))
+print(re.search(pattern,email))
+print(re.findall(pattern,email))
